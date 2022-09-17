@@ -11,7 +11,6 @@ for sym in text_list:
     elif sym.islower():
         count_lower += 1
 
-
 if count_upper > count_lower:
     print(text.upper())
 elif count_upper < count_lower:
