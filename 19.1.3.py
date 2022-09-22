@@ -3,8 +3,8 @@ phone_book = dict()
 while True:     # для выхода из цикла введите "exit"
     print('Текущие контакты на телефоне:')
     if phone_book:
-        for i_elem in phone_book:
-            print(i_elem, phone_book[i_elem], '\n')
+        for i_key in phone_book:
+            print(i_key, phone_book[i_key], '\n')
 
     else:
         print('<Пусто>')
