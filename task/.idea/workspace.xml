@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d8f68e91-9b11-408a-964e-804d4f91c209" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../23.2.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../23.2.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../23.3.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../23.3.2(b).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../23.3.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../23.4.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../23.4.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../24.2.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../24.2.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../24.3.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../24.3.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../24.4.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../24.4.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../24.4.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25.2.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25.2.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25.3.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25.3.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25.3.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25.4.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25.4.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../26.2.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ages.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../error_report.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../n" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../num.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../people.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../result.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modul 22/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modul 22/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modul 22/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modul 22/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modul 22/.idea/modul 22.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modul 22/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modul 22/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modul 22/answer.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modul 22/numbers.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modul 22/task 1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modul 22/task 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modul 22/task 3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modul 22/zen.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modul 24/task 1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../text.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../words.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2HqKkwrkSBSyCxHGYTalVFyo75U" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "E:/Skillbox/tasks not check/tasks"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d8f68e91-9b11-408a-964e-804d4f91c209" name="Changes" comment="" />
+      <created>1669007320918</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669007320918</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

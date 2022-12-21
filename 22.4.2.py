@@ -23,7 +23,7 @@ def rewrite_data(directory, result):
 
 
 dir_name = 'Python_Basic'
-dir_path = os.path.abspath(os.path.join('..', '..', 'practical lessons',  dir_name))
+dir_path = os.path.abspath(os.path.join('..', '..', 'practical_lessons',  dir_name))
 
 
 result_file = open('scripts.txt', 'a')
