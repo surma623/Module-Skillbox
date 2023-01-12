@@ -1,0 +1,306 @@
+{
+  "q": "London",
+  "rid": "ed91005d03c344788c5f9b84b3f451ec",
+  "rc": "OK",
+  "sr": [
+    {
+      "@type": "gaiaRegionResult",
+      "index": "0",
+      "gaiaId": "2114",
+      "type": "CITY",
+      "regionNames": {
+        "fullName": "London, England, United Kingdom",
+        "shortName": "London",
+        "displayName": "London, England, United Kingdom",
+        "primaryDisplayName": "London",
+        "secondaryDisplayName": "England, United Kingdom",
+        "lastSearchName": "London"
+      },
+      "essId": {
+        "sourceName": "GAI",
+        "sourceId": "2114"
+      },
+      "coordinates": {
+        "lat": "51.50746",
+        "long": "-0.127673"
+      },
+      "hierarchyInfo": {
+        "country": {
+          "name": "United Kingdom",
+          "isoCode2": "GB",
+          "isoCode3": "GBR"
+        }
+      }
+    },
+    {
+      "@type": "gaiaRegionResult",
+      "index": "1",
+      "gaiaId": "6195474",
+      "type": "NEIGHBORHOOD",
+      "regionNames": {
+        "fullName": "London City Centre, London, England, United Kingdom",
+        "shortName": "London City Centre",
+        "displayName": "London City Centre, London, England, United Kingdom",
+        "primaryDisplayName": "London City Centre",
+        "secondaryDisplayName": "London, England, United Kingdom",
+        "lastSearchName": "London City Centre"
+      },
+      "essId": {
+        "sourceName": "GAI",
+        "sourceId": "6195474"
+      },
+      "coordinates": {
+        "lat": "51.508362",
+        "long": "-0.129026"
+      },
+      "hierarchyInfo": {
+        "country": {
+          "name": "United Kingdom",
+          "isoCode2": "GB",
+          "isoCode3": "GBR"
+        }
+      }
+    },
+    {
+      "@type": "gaiaRegionResult",
+      "index": "2",
+      "gaiaId": "5392460",
+      "type": "AIRPORT",
+      "regionNames": {
+        "fullName": "London, United Kingdom (LHR-Heathrow)",
+        "shortName": "London (LHR-Heathrow)",
+        "displayName": "London (LHR - Heathrow), United Kingdom",
+        "primaryDisplayName": "London (LHR - Heathrow)",
+        "secondaryDisplayName": "United Kingdom",
+        "lastSearchName": "London (LHR - Heathrow)"
+      },
+      "essId": {
+        "sourceName": "GAI",
+        "sourceId": "5392460"
+      },
+      "coordinates": {
+        "lat": "51.470878",
+        "long": "-0.449753"
+      },
+      "hierarchyInfo": {
+        "country": {
+          "name": "United Kingdom",
+          "isoCode2": "GB",
+          "isoCode3": "GBR"
+        }
+      },
+      "isMinorAirport": "false"
+    },
+    {
+      "@type": "gaiaRegionResult",
+      "index": "3",
+      "gaiaId": "8557",
+      "type": "CITY",
+      "regionNames": {
+        "fullName": "London, Kentucky, United States of America",
+        "shortName": "London",
+        "displayName": "London, Kentucky, United States",
+        "primaryDisplayName": "London",
+        "secondaryDisplayName": "Kentucky, United States",
+        "lastSearchName": "London"
+      },
+      "essId": {
+        "sourceName": "GAI",
+        "sourceId": "8557"
+      },
+      "coordinates": {
+        "lat": "37.128979",
+        "long": "-84.083267"
+      },
+      "hierarchyInfo": {
+        "country": {
+          "name": "United States",
+          "isoCode2": "US",
+          "isoCode3": "USA"
+        }
+      }
+    },
+    {
+      "@type": "gaiaHotelResult",
+      "index": "4",
+      "hotelId": "12786616",
+      "type": "HOTEL",
+      "regionNames": {
+        "fullName": "LondonHouse Chicago, Curio Collection by Hilton, Chicago, Illinois, United States of America",
+        "shortName": "LondonHouse Chicago, Curio Collection by Hilton",
+        "displayName": "LondonHouse Chicago, Curio Collection by Hilton, Chicago, Illinois, United States",
+        "primaryDisplayName": "LondonHouse Chicago, Curio Collection by Hilton",
+        "secondaryDisplayName": "Chicago, Illinois, United States",
+        "lastSearchName": "LondonHouse Chicago, Curio Collection by Hilton"
+      },
+      "essId": {
+        "sourceName": "LCM",
+        "sourceId": "12786616"
+      },
+      "coordinates": {
+        "lat": "41.887943",
+        "long": "-87.625385"
+      },
+      "hierarchyInfo": {
+        "country": {
+          "isoCode3": "USA"
+        }
+      },
+      "cityId": "829",
+      "hotelAddress": {
+        "street": "85 East Wacker Drive",
+        "city": "Chicago",
+        "province": "IL"
+      }
+    },
+    {
+      "@type": "gaiaRegionResult",
+      "index": "5",
+      "gaiaId": "6047476",
+      "type": "NEIGHBORHOOD",
+      "regionNames": {
+        "fullName": "Kings Cross St. Pancras, London, England, United Kingdom",
+        "shortName": "Kings Cross St. Pancras",
+        "displayName": "Kings Cross St. Pancras, London, England, United Kingdom",
+        "primaryDisplayName": "Kings Cross St. Pancras",
+        "secondaryDisplayName": "London, England, United Kingdom",
+        "lastSearchName": "Kings Cross St. Pancras"
+      },
+      "essId": {
+        "sourceName": "GAI",
+        "sourceId": "6047476"
+      },
+      "coordinates": {
+        "lat": "51.529952514458806",
+        "long": "-0.12402339913938097"
+      },
+      "hierarchyInfo": {
+        "country": {
+          "name": "United Kingdom",
+          "isoCode2": "GB",
+          "isoCode3": "GBR"
+        }
+      }
+    },
+    {
+      "@type": "gaiaRegionResult",
+      "index": "6",
+      "gaiaId": "507738",
+      "type": "POI",
+      "regionNames": {
+        "fullName": "Hyde Park, London, England, United Kingdom",
+        "shortName": "Hyde Park",
+        "displayName": "Hyde Park, London, England, United Kingdom",
+        "primaryDisplayName": "Hyde Park",
+        "secondaryDisplayName": "London, England, United Kingdom",
+        "lastSearchName": "Hyde Park"
+      },
+      "essId": {
+        "sourceName": "GAI",
+        "sourceId": "507738"
+      },
+      "coordinates": {
+        "lat": "51.507267",
+        "long": "-0.16573"
+      },
+      "hierarchyInfo": {
+        "country": {
+          "name": "United Kingdom",
+          "isoCode2": "GB",
+          "isoCode3": "GBR"
+        }
+      }
+    },
+    {
+      "@type": "gaiaHotelResult",
+      "index": "7",
+      "hotelId": "438504",
+      "type": "HOTEL",
+      "regionNames": {
+        "fullName": "London Heathrow Marriott Hotel, Hayes, England, United Kingdom",
+        "shortName": "London Heathrow Marriott Hotel",
+        "displayName": "London Heathrow Marriott Hotel, Hayes, England, United Kingdom",
+        "primaryDisplayName": "London Heathrow Marriott Hotel",
+        "secondaryDisplayName": "Hayes, England, United Kingdom",
+        "lastSearchName": "London Heathrow Marriott Hotel"
+      },
+      "essId": {
+        "sourceName": "LCM",
+        "sourceId": "438504"
+      },
+      "coordinates": {
+        "lat": "51.480839",
+        "long": "-0.437828"
+      },
+      "hierarchyInfo": {
+        "country": {
+          "isoCode3": "GBR"
+        }
+      },
+      "cityId": "10517",
+      "hotelAddress": {
+        "street": "Bath Road",
+        "city": "Hayes",
+        "province": "England"
+      }
+    },
+    {
+      "@type": "gaiaRegionResult",
+      "index": "8",
+      "gaiaId": "800049",
+      "type": "NEIGHBORHOOD",
+      "regionNames": {
+        "fullName": "Paddington, London, England, United Kingdom",
+        "shortName": "Paddington",
+        "displayName": "Paddington, London, England, United Kingdom",
+        "primaryDisplayName": "Paddington",
+        "secondaryDisplayName": "London, England, United Kingdom",
+        "lastSearchName": "Paddington"
+      },
+      "essId": {
+        "sourceName": "GAI",
+        "sourceId": "800049"
+      },
+      "coordinates": {
+        "lat": "51.515972",
+        "long": "-0.174943"
+      },
+      "hierarchyInfo": {
+        "country": {
+          "name": "United Kingdom",
+          "isoCode2": "GB",
+          "isoCode3": "GBR"
+        }
+      }
+    },
+    {
+      "@type": "gaiaRegionResult",
+      "index": "9",
+      "gaiaId": "4127",
+      "type": "MULTICITY",
+      "regionNames": {
+        "fullName": "London (and vicinity), Ontario, Canada",
+        "shortName": "London (and vicinity)",
+        "displayName": "London, Ontario, Canada",
+        "primaryDisplayName": "London",
+        "secondaryDisplayName": "Ontario, Canada",
+        "lastSearchName": "London"
+      },
+      "essId": {
+        "sourceName": "GAI",
+        "sourceId": "4127"
+      },
+      "coordinates": {
+        "lat": "42.983841",
+        "long": "-81.249771"
+      },
+      "hierarchyInfo": {
+        "country": {
+          "name": "Canada",
+          "isoCode2": "CA",
+          "isoCode3": "CAN"
+        }
+      }
+    }
+  ]
+}

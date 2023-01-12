@@ -1,3 +1,5 @@
+from typing import Dict
+
 text = input('Введите строку: ')
 count = 0
 text_list = list(text)
@@ -11,7 +13,7 @@ for sym in text_list:
     print(sym, end='')
 print('\nКоличество исправлений', count)
 
-
+print("dfhfh")
 
 
 
